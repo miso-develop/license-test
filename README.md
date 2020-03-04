@@ -6,3 +6,8 @@ xxx
 
 # ライセンス
 [![CC BY-NC-ND](./cc-by-nc-nd.png)](https://creativecommons.org/licenses/by-nc-nd/4.0/deed.ja)
+
+
+# xxx
+
+[Issue](../../issues) / [Pull request](../../pulls)
